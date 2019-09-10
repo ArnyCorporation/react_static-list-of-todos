@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ArnyCorporation/react_static-list-of-todos/static/css/main.fb454445.chunk.css",
-    "main.js": "/ArnyCorporation/react_static-list-of-todos/static/js/main.d60d93aa.chunk.js",
-    "main.js.map": "/ArnyCorporation/react_static-list-of-todos/static/js/main.d60d93aa.chunk.js.map",
-    "runtime~main.js": "/ArnyCorporation/react_static-list-of-todos/static/js/runtime~main.b84ca210.js",
-    "runtime~main.js.map": "/ArnyCorporation/react_static-list-of-todos/static/js/runtime~main.b84ca210.js.map",
-    "static/js/2.158af266.chunk.js": "/ArnyCorporation/react_static-list-of-todos/static/js/2.158af266.chunk.js",
-    "static/js/2.158af266.chunk.js.map": "/ArnyCorporation/react_static-list-of-todos/static/js/2.158af266.chunk.js.map",
-    "index.html": "/ArnyCorporation/react_static-list-of-todos/index.html",
-    "precache-manifest.36977d71b3b93ae536323e433fe1a33e.js": "/ArnyCorporation/react_static-list-of-todos/precache-manifest.36977d71b3b93ae536323e433fe1a33e.js",
-    "service-worker.js": "/ArnyCorporation/react_static-list-of-todos/service-worker.js",
-    "static/css/main.fb454445.chunk.css.map": "/ArnyCorporation/react_static-list-of-todos/static/css/main.fb454445.chunk.css.map"
+    "main.css": "/react_static-list-of-todos/static/css/main.fb454445.chunk.css",
+    "main.js": "/react_static-list-of-todos/static/js/main.d60d93aa.chunk.js",
+    "main.js.map": "/react_static-list-of-todos/static/js/main.d60d93aa.chunk.js.map",
+    "runtime~main.js": "/react_static-list-of-todos/static/js/runtime~main.00529491.js",
+    "runtime~main.js.map": "/react_static-list-of-todos/static/js/runtime~main.00529491.js.map",
+    "static/js/2.158af266.chunk.js": "/react_static-list-of-todos/static/js/2.158af266.chunk.js",
+    "static/js/2.158af266.chunk.js.map": "/react_static-list-of-todos/static/js/2.158af266.chunk.js.map",
+    "index.html": "/react_static-list-of-todos/index.html",
+    "precache-manifest.facb8dd4dbdc27d7a7fefb9622c98d63.js": "/react_static-list-of-todos/precache-manifest.facb8dd4dbdc27d7a7fefb9622c98d63.js",
+    "service-worker.js": "/react_static-list-of-todos/service-worker.js",
+    "static/css/main.fb454445.chunk.css.map": "/react_static-list-of-todos/static/css/main.fb454445.chunk.css.map"
   }
 }
